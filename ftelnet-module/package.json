@@ -1,0 +1,12 @@
+{
+  "name": "ftelnet-module",
+  "version": "1.0.0",
+  "description": "Nuxt module for integrating fTelnet",
+  "main": "index.js",
+  "scripts": {
+    "build": "nuxt build"
+  },
+  "dependencies": {
+    "ftelnet.js": "~1.0.0"
+  }
+}
