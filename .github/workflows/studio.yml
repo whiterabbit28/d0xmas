@@ -60,6 +60,9 @@ jobs:
       - name: Install dependencies
         run: ${{ steps.pkgman.outputs.package_manager }} install
 
+      - name: Install Telnet web client
+        run: npm install ftelnet.js
+
       - name: Install @nuxthq/studio
         run: ${{ steps.pkgman.outputs.package_manager }} add -D @nuxthq/studio
 
