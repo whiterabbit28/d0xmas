@@ -7,7 +7,6 @@ export default defineNuxtConfig({
     '@nuxtjs/fontaine',
     '@nuxtjs/google-fonts',
     'nuxt-og-image',
-    '@nuxtjs/axios',
     './ftelnet-module'
   ],
   ui: {
