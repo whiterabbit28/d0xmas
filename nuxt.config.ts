@@ -6,7 +6,9 @@ export default defineNuxtConfig({
     '@nuxt/ui',
     '@nuxtjs/fontaine',
     '@nuxtjs/google-fonts',
-    'nuxt-og-image'
+    'nuxt-og-image',
+    '@nuxtjs/axios',
+    './ftelnet-module'
   ],
   ui: {
     icons: ['heroicons', 'simple-icons']
