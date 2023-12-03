@@ -12,7 +12,7 @@ export default defineAppConfig({
   header: {
     logo: {
       alt: '',
-      light: '/sellyourself.png',
+      light: '/Add a heading.png',
       dark: '/Add a heading.png'
     },
     search: true,
