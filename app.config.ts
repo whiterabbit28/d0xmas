@@ -1,6 +1,6 @@
 export default defineAppConfig({
   ui: {
-    primary: 'sky',
+    primary: 'indigo',
     gray: 'zinc',
     footer: {
       bottom: {
@@ -12,7 +12,7 @@ export default defineAppConfig({
   header: {
     logo: {
       alt: '',
-      light: '/ascii-text-art (1).jpg',
+      light: '/Blue Rounded Rectangle Accounting Logo.png',
       dark: '/Add a heading.png'
     },
     search: true,
