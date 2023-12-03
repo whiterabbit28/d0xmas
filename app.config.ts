@@ -12,7 +12,7 @@ export default defineAppConfig({
   header: {
     logo: {
       alt: '',
-      light: '/Add a heading.png',
+      light: '/ascii-text-art (1).jpg',
       dark: '/Add a heading.png'
     },
     search: true,
