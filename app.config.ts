@@ -1,7 +1,7 @@
 export default defineAppConfig({
   ui: {
-    primary: 'emerald',
-    gray: 'slate',
+    primary: 'sky',
+    gray: 'zinc',
     footer: {
       bottom: {
         left: 'text-sm text-gray-500 dark:text-gray-400',
@@ -12,8 +12,8 @@ export default defineAppConfig({
   header: {
     logo: {
       alt: '',
-      light: '',
-      dark: ''
+      light: '/dglite.png',
+      dark: '/sellyourself.png'
     },
     search: true,
     colorMode: true,
