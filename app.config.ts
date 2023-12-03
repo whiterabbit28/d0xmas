@@ -12,8 +12,8 @@ export default defineAppConfig({
   header: {
     logo: {
       alt: '',
-      light: '/dglite.png',
-      dark: '/sellyourself.png'
+      light: '/sellyourself.png',
+      dark: '/Add a heading.png'
     },
     search: true,
     colorMode: true,
