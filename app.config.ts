@@ -12,8 +12,8 @@ export default defineAppConfig({
   header: {
     logo: {
       alt: '',
-      light: '/Blue Rounded Rectangle Accounting Logo.png',
-      dark: '/Add a heading.png'
+      light: '/Blue Rounded Rectangle Accounting Logo (1).png',
+      dark: '/sellyourself.png'
     },
     search: true,
     colorMode: true,
